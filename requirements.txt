@@ -3,4 +3,4 @@ numpy
 scipy
 obspy
 ipympl
-mpl_toolkits
+basemap
